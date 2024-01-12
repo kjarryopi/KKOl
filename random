@@ -3,7 +3,7 @@ from fractions import Fraction
 
 # Generate and print 10 random fractionss
 for _ in range(10):
-    numerator = random.randint(1, 20)
+    numerator = random.randint(11, 20)
     denominator = random.randint(1, 20)
     fraction = Fraction(numerator, denominator)
     print(fraction)
