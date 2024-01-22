@@ -1,7 +1,7 @@
 import random
 from fractions import Fraction
 
-# Generate and print 10 random fractionss11111
+# Generate and print 10 random fractionss111112
 for _ in range(10):
     numerator = random.randint(11, 20)
     denominator = random.randint(1, 20)
