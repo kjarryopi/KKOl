@@ -1,4 +1,4 @@
-import random
+import random1
 from fractions import Fraction
 
 # Generate and print 10 random fractionss111112
